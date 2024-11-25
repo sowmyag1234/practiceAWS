@@ -27,7 +27,7 @@ now refresh and check whether file added to central repo or not
 1/ get the updated code : git pull --rebase
 2/ newly added data will clones into local repo 
 
-NOTE: if you want to add any data without getting the updated code it will not allow you to update or add any kine of new data into the folder . 
+NOTE: if you want to add any data without getting the updated code it will not allow you to update or add any kind of new data into the folder . 
 its day to day mandit to get updated code by doing git pull request.
 
 
